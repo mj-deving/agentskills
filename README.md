@@ -1,5 +1,7 @@
 # Agent Skills
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+
 [Agent Skills](https://agentskills.io) are a simple, open format for giving agents new capabilities and expertise.
 
 Skills are folders of instructions, scripts, and resources that agents can discover and use to perform better at specific tasks. Write once, use everywhere.
